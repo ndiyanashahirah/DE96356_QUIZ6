@@ -1,0 +1,44 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Sun Nov 15 23:08:05 2020
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000004
+                   .org_2       code   0x000008    program   0x000002
+                   .org_3       code   0x000018    program   0x0000b0
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000003      
+                            0x000008    0x000009      
+                            0x000018    0x0000c7      
+            182 out of 33048 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                Delay56ms   0x00001a    program     static C:\Users\ndiya\Documents\DE96356_QUIZ6\qui6new\quiz6new.asm
+                    show5   0x00001e    program     static C:\Users\ndiya\Documents\DE96356_QUIZ6\qui6new\quiz6new.asm
+                    show6   0x000022    program     static C:\Users\ndiya\Documents\DE96356_QUIZ6\qui6new\quiz6new.asm
+                    start   0x0000b4    program     static C:\Users\ndiya\Documents\DE96356_QUIZ6\qui6new\quiz6new.asm
+                studentID   0x0000b6    program     static C:\Users\ndiya\Documents\DE96356_QUIZ6\qui6new\quiz6new.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                Delay56ms   0x00001a    program     static C:\Users\ndiya\Documents\DE96356_QUIZ6\qui6new\quiz6new.asm
+                    show5   0x00001e    program     static C:\Users\ndiya\Documents\DE96356_QUIZ6\qui6new\quiz6new.asm
+                    show6   0x000022    program     static C:\Users\ndiya\Documents\DE96356_QUIZ6\qui6new\quiz6new.asm
+                    start   0x0000b4    program     static C:\Users\ndiya\Documents\DE96356_QUIZ6\qui6new\quiz6new.asm
+                studentID   0x0000b6    program     static C:\Users\ndiya\Documents\DE96356_QUIZ6\qui6new\quiz6new.asm
+
+
